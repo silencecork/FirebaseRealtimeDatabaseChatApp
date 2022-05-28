@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Chat App</string>
+    <string name="firebase_database_url">在這裡填入firebase realtime database的url</string>
+</resources>
